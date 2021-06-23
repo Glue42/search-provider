@@ -1,0 +1,9 @@
+[
+   {
+      "id": "custom-action",
+      "type": "Action",
+      "category": "Actions",
+      "description": "Press to invoke a custom action in dev-search-provider",
+      "displayName": "Custom Action"
+   }
+]

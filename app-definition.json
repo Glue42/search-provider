@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Dev Search Provider",
+        "service": true,
+        "hidden": true,
+        "type": "window",
+        "name": "search-provider-dev",
+        "details": {
+            "url": "http://localhost:22080/search/index.html",
+            "hidden": true
+        }
+    }
+]
